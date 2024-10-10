@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#recipes-header {
+    background-color: #fbff00;
+    color: #ffffff;
+}
+
+.recipes-list li {
+    background-color: #fc5050;
+}
+
+li.odd-li {
+    background-color: #ff0000;
+}
